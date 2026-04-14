@@ -26,4 +26,4 @@ git clone https://github.com/tu-usuario/parcial2-tienda-online.git
 cd parcial2-tienda-online
 
 # Ejecutar el programa principal
-python main.py
+python3 main.py
